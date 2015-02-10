@@ -17,14 +17,14 @@
 -->
 <resources>
   <string name="app_name">Screencast</string>
-  <string name="share">分享</string>
-  <string name="stop">停止</string>
-  <string name="insufficient_storage">儲存空間不足</string>
-  <string name="show_touches">顯示觸控回應</string>
-  <string name="recording">正在錄製\u2026</string>
-  <string name="recording_ready_to_share">錄製內容已準備好分享</string>
-  <string name="video_length">影片長度：%s</string>
-  <string name="not_enough_storage">可用的儲存空間不足</string>
-  <string name="start_screencast">開始 Screencast</string>
-  <string name="start_description">按下「開始 Screencast」即可開始錄製您 Android 的螢幕及麥克風的影片</string>
+  <string name="share">Compartir</string>
+  <string name="stop">Parar</string>
+  <string name="insufficient_storage">Almacenamientu insufiente</string>
+  <string name="show_touches">Amosar pulsaciones</string>
+  <string name="recording">Grabando\u2026</string>
+  <string name="recording_ready_to_share">Grabación llista pa compartir</string>
+  <string name="video_length">Duración del videu: %s</string>
+  <string name="not_enough_storage">Nun hai bastante espaciu disponible</string>
+  <string name="start_screencast">Aniciar Screencast</string>
+  <string name="start_description">Calca \"Aniciar Screencast\" pa entamar a grabar un videu de la to pantalla d\'Android y micrófonu.</string>
 </resources>
