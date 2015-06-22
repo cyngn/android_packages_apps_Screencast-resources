@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">Paylaş</string>
-  <string name="stop">Dayandır</string>
-  <string name="insufficient_storage">Saxlama sahəsi azdır</string>
+  <string name="app_name">ارسال صفحه</string>
+  <string name="share">اشتراک‌ﮔﺬﺍﺭﯼ</string>
+  <string name="show_touches">نمایش لمس‌ها</string>
 </resources>
