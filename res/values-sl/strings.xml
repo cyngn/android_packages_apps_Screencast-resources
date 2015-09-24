@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Zaslonski posnetek</string>
+  <string name="app_name">Posnetek zaslona</string>
   <string name="share">Deli</string>
   <string name="stop">Ustavi</string>
   <string name="insufficient_storage">Nezadostna velikost pomnilniške naprave</string>
@@ -25,6 +25,6 @@
   <string name="recording_ready_to_share">Posnetek pripravljen za deljenje</string>
   <string name="video_length">Dolžina video posnetka: %s</string>
   <string name="not_enough_storage">Ni na voljo dovolj prostora</string>
-  <string name="start_screencast">Zaženi Posnetek zaslona</string>
-  <string name="start_description">Pritisnite \"Zaženi Posnetek zaslona\", da začnete snemanje vašega zaslona Android in mikrofona.</string>
+  <string name="start_screencast">Zaženi posnetek zaslona</string>
+  <string name="start_description">Pritisnite \"Zaženi posnetek zaslona\", da začnete snemanje vašega zaslona Android in mikrofona.</string>
 </resources>
