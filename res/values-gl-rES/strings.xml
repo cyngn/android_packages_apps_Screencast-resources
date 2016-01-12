@@ -21,4 +21,5 @@
   <string name="stop">Parar</string>
   <string name="insufficient_storage">O almacenamento é insuficiente</string>
   <string name="recording">Gravandor\u2026</string>
+  <string name="video_length">Duración do vídeo: %s</string>
 </resources>
