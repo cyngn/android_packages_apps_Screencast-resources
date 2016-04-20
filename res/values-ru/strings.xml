@@ -26,5 +26,5 @@
   <string name="video_length">Длительность видео: %s</string>
   <string name="not_enough_storage">Не хватает свободной памяти</string>
   <string name="start_screencast">Начать запись</string>
-  <string name="start_description">Нажмите «Начать запись», чтобы записать видео с экрана устройства и звука со встроенного микрофона.</string>
+  <string name="start_description">Нажмите «Начать запись», чтобы записать видео с экрана устройства и звук со встроенного микрофона.</string>
 </resources>

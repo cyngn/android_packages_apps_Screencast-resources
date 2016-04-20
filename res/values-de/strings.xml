@@ -18,7 +18,7 @@
 <resources>
   <string name="app_name">Bildschirmübertragung</string>
   <string name="share">Teilen</string>
-  <string name="stop">Anhalten</string>
+  <string name="stop">Stoppen</string>
   <string name="insufficient_storage">Zu wenig Speicher</string>
   <string name="show_touches">Berührungen anzeigen</string>
   <string name="recording">Aufzeichnung\u2026</string>

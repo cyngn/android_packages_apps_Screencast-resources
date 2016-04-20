@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Screencast</string>
+  <string name="app_name">Proyeksi Layar</string>
   <string name="share">Bagikan</string>
   <string name="stop">Berhenti</string>
   <string name="insufficient_storage">Penyimpanan tidak mencukupi</string>
@@ -25,6 +25,6 @@
   <string name="recording_ready_to_share">Rekaman siap dibagi</string>
   <string name="video_length">Durasi video: %s</string>
   <string name="not_enough_storage">Penyimpanan yang tersedia tidak cukup</string>
-  <string name="start_screencast">Mulai Screencast</string>
-  <string name="start_description">Tekan \"Mulai Screencast\" untuk mulai merekam video pada layar Android anda dan mikrofon.</string>
+  <string name="start_screencast">Mulai Proyeksi Layar</string>
+  <string name="start_description">Tekan \"Mulai Proyeksi Layar\" untuk mulai merekam video pada layar Android Anda dan mikrofon.</string>
 </resources>
